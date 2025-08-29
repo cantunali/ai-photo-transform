@@ -1,3 +1,5 @@
+// @ts-check
+// CommonJS server for Railway deployment
 const express = require('express');
 const multer = require('multer');
 const path = require('path');
